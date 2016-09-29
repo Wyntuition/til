@@ -1,3 +1,10 @@
+# SIL (Soon I'll Learn)
+
+### .NET Core 
+- Key points in the differences b/t .NET target frameworks (.NET Standard vs PCL, targeting multiple framework implications)
+- Elastic search implementation 
+- vim workflow and tools 
+
 # TIL 
 > Today I Learned 
 
