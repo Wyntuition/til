@@ -5,6 +5,9 @@
 - Elastic search implementation 
 - vim workflow and tools 
 
+### DevOps 
+- Swarm w/ZooKeeper/etc: Swarm is fairly straightforward: each host runs a Swarm agent and one host runs a Swarm manager (on small test clusters this host may also run an agent). The manager is responsible for the orchestration and scheduling of containers on the hosts. Swarm can be run in a high-availability mode where one of etcd, Consul or ZooKeeper is used to handle fail-over to a back-up manager
+
 # TIL 
 > Today I Learned 
 
@@ -13,26 +16,11 @@
 ### Categories
 - [Git](#git)
 - [Osx](#osx)
-- [Rails](#rails)
-- [Ruby](#ruby)
-
 
 --- 
 ### Git
 - [Delete Local Branches That Have Been Merged.md](git/delete-local-branches-that-have-been-merged.md)
 - [List Git Aliases.md](git/list-git-aliases.md)
 - [Prettier Git Log.md](git/prettier-git-log.md)
-
+- [Keep forks in sync](git/keep-forks-in-sync.md)
 --- 
-### Osx
-- [Copy To Clipboard.md](osx/copy-to-clipboard.md)
-
---- 
-### Rails
-- [Code Statistics For Rails App.md](rails/code-statistics-for-rails-app.md)
-- [Minitest Seed Option.md](rails/minitest-seed-option.md)
-
---- 
-### Ruby
-- [Parallel Bundle Install.md](ruby/parallel-bundle-install.md)
-- [Ruby Command Line Eval.md](ruby/ruby-command-line-eval.md)
