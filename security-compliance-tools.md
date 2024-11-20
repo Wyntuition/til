@@ -1,4 +1,4 @@
-You're absolutely right that the list could be better tailored to focus on actual security-specific tooling, compliance, and governance. Here's an improved and more focused list that includes **governance** and a clearer categorization of **network security** and **compliance tooling** for cloud-native environments.
+Survey of **governance**, **security** and **compliance tooling** for cloud-native environments.
 
 ---
 
